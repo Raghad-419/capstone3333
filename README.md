@@ -90,7 +90,6 @@ MaintenanceExpertDTO
 MaintenanceRequestHistoryDTO
 In DTO
 FineDTO_In
-RentingRequestDTO_In
 
 
 
